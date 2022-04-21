@@ -90,7 +90,7 @@ class ChatFragment : Fragment() {
                 {
                     if(value.isEmpty)
                     {
-                        Toast.makeText(context,"Mesaj Yok",Toast.LENGTH_LONG).show()
+                        Toast.makeText(context,"Mesajınız Yok",Toast.LENGTH_LONG).show()
                     }
                     else
                     {
